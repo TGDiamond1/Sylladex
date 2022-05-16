@@ -1,0 +1,6 @@
+/home/haywardhhayward/Projects/Sylladex/Sylladex/bin/Debug/Sylladex.dll
+/home/haywardhhayward/Projects/Sylladex/Sylladex/bin/Debug/Sylladex.pdb
+/home/haywardhhayward/Projects/Sylladex/Sylladex/obj/Debug/Sylladex.csprojAssemblyReference.cache
+/home/haywardhhayward/Projects/Sylladex/Sylladex/obj/Debug/Sylladex.csproj.CoreCompileInputs.cache
+/home/haywardhhayward/Projects/Sylladex/Sylladex/obj/Debug/Sylladex.dll
+/home/haywardhhayward/Projects/Sylladex/Sylladex/obj/Debug/Sylladex.pdb

@@ -1,0 +1,3 @@
+/home/haywardhhayward/Projects/Sylladex/Sylladex/bin/Release/Sylladex.dll
+/home/haywardhhayward/Projects/Sylladex/Sylladex/obj/Release/Sylladex.csproj.CoreCompileInputs.cache
+/home/haywardhhayward/Projects/Sylladex/Sylladex/obj/Release/Sylladex.dll
